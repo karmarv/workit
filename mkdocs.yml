@@ -1,0 +1,54 @@
+site_name: Karma Workit
+
+site_url: https://karmarv.github.io/workit
+
+repo_url: https://karmarv.github.io/workit
+
+theme:
+  palette:
+    scheme: preference
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    # - navigation.expand
+    # - navigation.tabs
+    - search.highlight
+  custom_dir: "docs/overrides"
+
+plugins:
+  - search
+  - mkdocstrings
+  - git-revision-date
+  - mkdocs-jupyter:
+      include_source: True
+      execute: True
+
+markdown_extensions:
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+# google_analytics:
+#   - UA-XXXXXXXX-X
+#   - auto
+
+nav:
+  - Home: index.md
+  - Push: 01_push/push.md
+  - Legs: 02_legs/legs.md
+  - Pull: 03_pull/pull.md
+  - About:
+    - Projects: https://github.com/karmarv/workit/projects
+    - Insights: https://github.com/karmarv/workit/pulse
+    - Wiki: https://github.com/karmarv/workit/wiki
+    - Report Issues: https://github.com/karmarv/workit/issues
+    - Sample:
+      - Sample 1:
+          - chapter_01/intro.ipynb
+          - chapter_01/basemaps.ipynb
+      - Sample 2:
+          - chapter_02/colorbar.ipynb
+          - chapter_02/heatmap.ipynb
