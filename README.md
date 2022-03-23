@@ -1,6 +1,7 @@
 
 [![pages-build-deployment](https://github.com/karmarv/workit/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/karmarv/workit/actions/workflows/pages/pages-build-deployment)
 
+[https://karmarv.github.io/workit](https://karmarv.github.io/workit)
 
 # Instructions for Author
 A template for turning Jupyter notebooks and markdown files into a website.

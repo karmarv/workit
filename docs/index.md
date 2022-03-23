@@ -4,6 +4,8 @@ Exercises in which your elbow joints are straight at contractions (bench presses
 
 > reference: [The Barbell](https://www.thebarbell.com/the-push-pull-workout-system/)
 
+![Muscle Groups](./assets/body-parts.jpeg)
+
 ### Basics
 - body is divided into three workouts over three days.
 - A push-pull split can be done on any schedule. For example, you can train three days per week: Monday (pull), Wednesday (push), Friday (legs).
@@ -26,6 +28,8 @@ Exercises in which your elbow joints are straight at contractions (bench presses
 | b. [Front/Side Delts](./01_push/push.md#front--side-delts)  | Barbell/Machine Shoulder Press (4 x 12-8) <br /> Dumbbell Front Raise (3 x 10-12) <br /> Side Lateral (5 x 10-15)                                 |
 | c. [Triceps](./01_push/push.md#triceps)                     | Lying Triceps Extension (4 x 10-12) <br /> Dumbbell/Overhead Triceps Extension (3 x 10-12) <br /> Pushdown (4 x 10-12)                            |
 | d. [Shoulders/Pecks](./01_push/push.md#triceps)             | Shoulder Overhead Press (4 x 10-12) <br /> Close Grip Bench Press (3 x 10-12) <br /> Dumbbell Lateral Raise  (3 x 10-12) <br /> Neck Extension    |
+
+![Push](./assets/cs-push.JPG)
     
 ### Day 2   
 #### [LEGS: Quads, hamstrings, calves, abs](./02_legs/legs.md)
@@ -39,6 +43,7 @@ Exercises in which your elbow joints are straight at contractions (bench presses
 | b. [Glutes/Hamstring](./02_legs/legs.md)                    | Deadlift (3 x 3) <br /> Hack/Barbel/Goblet Squat (4 x 10)  <br /> Unilateral Hip thrust  <br /> Prisoner back extensions (4 x 10)                 |
 | d. [Abs](./02_legs/legs.md#abs-crunch)                      | Decline Crunch (4 x 10-12)  <br /> Long lever planks (2 x 30s)                                                                                    |
 
+![Legs](./assets/cs-leg.JPG)
 
 ### Day 3   
 #### [PULL: Back, rear delts, traps, biceps, forearms](./03_pull/pull.md)
@@ -53,5 +58,7 @@ Exercises in which your elbow joints are straight at contractions (bench presses
 | d. [Biceps](./03_pull/pull.md#biceps)                       | EZ-bar Pronated/Supinated Curl (4 x 10-12) <br /> Machine Curl (4 x 10-12) <br /> Incline Dumbbell Curl (3 x 10-12)                               |
 | e. [Forearms](./03_pull/pull.md#forearms)                   | Wrist Curl (4 x 12-15)                                                                                                                            |
     
+![Pull](./assets/cs-pull.JPG)
+
 ### Day 4   OFF
 ![Bicycle Day](./assets/bicycle-crop.jpeg)

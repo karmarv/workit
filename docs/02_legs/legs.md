@@ -1,5 +1,7 @@
 # LEGS: Quads, hamstrings, calves, abs
 
+![Legs](../assets/cs-leg.JPG)
+
 ## Squat - Barbell
 
 ## Leg Press - Seated
